@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Docker-generated data
+data/
+logs/
+
+# Environment variables
+.env

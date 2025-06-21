@@ -1,0 +1,2 @@
+# 1분마다 monitor.py 스크립트를 실행
+* * * * * /usr/local/bin/python /app/monitor.py >> /var/log/cron.log 2>&1
