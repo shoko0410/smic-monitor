@@ -22,7 +22,7 @@
 
 1.  **프로젝트 클론**
     ```bash
-    git clone [https://github.com/YourUsername/smic-monitor.git](https://github.com/YourUsername/smic-monitor.git)
+    git clone https://github.com/shoko0410/smic-monitor.git
     cd smic-monitor
     ```
 
